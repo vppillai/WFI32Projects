@@ -46,7 +46,7 @@ print("Fetching repo topics")
 file=open(os.path.join(".","docs","readme.md"),"w")
 
 for topic in topicsFilter:
-    file.write(f'### [{topic}]({topic}.md)' +'\n')
+    file.write(f'### [{topic}]({topic})' +'\n')
 
 for repo in repoDict:
     repoTopics=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/topics', headers={"Accept":"application/vnd.github.mercy-preview+json","Authorization":f"token {token}"}).text)
@@ -59,6 +59,7 @@ for repo in repoDict:
                         fileName=os.path.join(".","docs",repoTopic+".md")
                         if not os.path.exists(fileName):
                             file = open(fileName, "w")
+                            file.write(f'### Projects under topic {repoTopic} under {orgName}'+'\n')    
                             file.write(f'|**Project**|**Description**|'+'\n')    
                             file.write(f'|---|---|'+'\n')    
                         else:
