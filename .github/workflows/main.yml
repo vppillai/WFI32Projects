@@ -1,5 +1,7 @@
 name: topicParser
-on: [push]
+on:
+  schedule:
+    - cron: "*/1 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,6 +11,10 @@ jobs:
         with:
           python-version: "3.x" # Version range or exact version of a Python version to use, using SemVer's version range syntax
           architecture: "x64" # optional x64 or x86. Defaults to x64 if not specified
+      - name: setup dependencies
+        run:
+          python -m pip install --upgrade pip
+          pip install flake8 pytest
       - run: python topicParser.py
       - uses: EndBug/add-and-commit@v7
         with:
