@@ -1,7 +1,5 @@
 name: topicParser
-on:
-  schedule:
-    - cron: "*/1 * * * *"
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
