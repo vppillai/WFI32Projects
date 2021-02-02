@@ -13,12 +13,11 @@ while page:
     if len(reposJson):
         for repo in reposJson:
             try:
-                repoDict.append({"name":repo["name"],"description":repo["description"],"html_url":repo["html_url"],})
+                repoDict.append({"name":repo["name"],"description":repo["description"],"html_url":repo["html_url"]})
             except Exception as e:
                 print(e)
                 print("ERROR!! Error processing repo list\n\n")
                 print(reposJson)
-                input("eenter")
                 exit(-1)
         pageNum=pageNum+1
     else:
