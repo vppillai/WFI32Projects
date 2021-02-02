@@ -16,7 +16,7 @@ jobs:
       - run: python topicParser.py
       - uses: EndBug/add-and-commit@v7
         with:
-          add: "index.json"
+          add: "*"
           author_name: Vysakh P Pillai
           author_email: vysakhpillai@gmail.com
           branch: main
