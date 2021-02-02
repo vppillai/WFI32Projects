@@ -12,7 +12,7 @@ jobs:
             architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
         - run: python topicParser.py
         - uses: EndBug/add-and-commit@v7
-		  with:
+          with:
             add: 'index.json'
             author_name: Vysakh P Pillai
             author_email: vysakhpillai@gmail.com
