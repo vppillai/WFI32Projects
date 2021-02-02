@@ -1,24 +1,24 @@
 name: topicParser
 on:
   schedule:
-    - cron:  '*/1 * * * *'
+    - cron: "*/1 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-        - uses: actions/checkout@v2
-        - uses: actions/setup-python@v2
-          with:
-            python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
-            architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
-        - run: python topicParser.py
-        - uses: EndBug/add-and-commit@v7
-          with:
-            add: 'index.json'
-            author_name: Vysakh P Pillai
-            author_email: vysakhpillai@gmail.com
-            branch: main
-#            cwd: './WFI32Projects'
-            message: 'JSON Update'
-            pull_strategy: '--rebase'
-            push: true
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.x" # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: "x64" # optional x64 or x86. Defaults to x64 if not specified
+      - run: python topicParser.py
+      - uses: EndBug/add-and-commit@v7
+        with:
+          add: "index.json"
+          author_name: Vysakh P Pillai
+          author_email: vysakhpillai@gmail.com
+          branch: main
+          #cwd: './WFI32Projects'
+          message: "JSON Update"
+          pull_strategy: "--rebase"
+          push: true
