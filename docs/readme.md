@@ -1,1 +1,3 @@
-### [wfi32](wfi32.md)
+## Project topics under MicrochipTech
+### [wfi32](wfi32)
+### [lora](lora)
