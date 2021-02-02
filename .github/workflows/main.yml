@@ -22,5 +22,5 @@ jobs:
           branch: main
           #cwd: './WFI32Projects'
           message: "JSON Update"
-          pull_strategy: "--rebase"
+          #pull_strategy: "--rebase"
           push: true
