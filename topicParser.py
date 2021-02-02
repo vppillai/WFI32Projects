@@ -9,7 +9,7 @@ repoDict=[]
 print("Fetching repo names")
 
 while page:
-    reposJson=json.loads(requests.get(f"https://api.github.com/orgs/{orgName}/repos?per_page=100&page={pageNum}", headers={"Authorization":"token fa7b7a8af85cfb0bc0cd993a828635734864e289"}).text)
+    reposJson=json.loads(requests.get(f"https://api.github.com/orgs/{orgName}/repos?per_page=100&page={pageNum}").text)
     if len(reposJson):
         for repo in reposJson:
             try:
@@ -39,7 +39,7 @@ print("Fetching repo topics")
 
 #get all topics in repos and filter
 for repo in repoDict:
-    repoTopics=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/topics', headers={"Accept":"application/vnd.github.mercy-preview+json","Authorization":"token fa7b7a8af85cfb0bc0cd993a828635734864e289"}).text)
+    repoTopics=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/topics', headers={"Accept":"application/vnd.github.mercy-preview+json"}).text)
     if len(repoTopics):
         try:
             if(len(repoTopics["names"])):
