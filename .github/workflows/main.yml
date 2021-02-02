@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: topicParser
 on:
   schedule:
     - cron:  '*/15 * * * *'
