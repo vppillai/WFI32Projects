@@ -1,4 +1,4 @@
-import requests,json,shutil,os
+import requests,json,shutil,os,sys
 
 #get all repo names
 orgName='MicrochipTech'
@@ -6,10 +6,12 @@ page=True
 pageNum=0
 repoDict=[]
 
+token=sys.argv[1]
+
 print("Fetching repo names")
 
 while page:
-    reposJson=json.loads(requests.get(f"https://api.github.com/orgs/{orgName}/repos?per_page=100&page={pageNum}").text)
+    reposJson=json.loads(requests.get(f'https://api.github.com/orgs/{orgName}/repos?per_page=100&page={pageNum}', headers={"Authorization": f'token {token}'}).text)
     if len(reposJson):
         for repo in reposJson:
             try:
@@ -39,7 +41,7 @@ print("Fetching repo topics")
 
 #get all topics in repos and filter
 for repo in repoDict:
-    repoTopics=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/topics', headers={"Accept":"application/vnd.github.mercy-preview+json"}).text)
+    repoTopics=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/topics', headers={"Accept":"application/vnd.github.mercy-preview+json","Authorization":f"token {token}"}).text)
     if len(repoTopics):
         try:
             if(len(repoTopics["names"])):
