@@ -6,7 +6,10 @@ page=True
 pageNum=0
 repoDict=[]
 
-token=sys.argv[1]
+if len(sys.argv) >=2:
+    token=sys.argv[1]
+else :
+    token=""
 
 print("Fetching repo names")
 
@@ -40,6 +43,11 @@ os.mkdir(os.path.join(".","docs"))
 print("Fetching repo topics")
 
 #get all topics in repos and filter
+file=open(os.path.join(".","docs","readme"+".md"),"w")
+
+for topic in topicsFilter:
+    file.write(f'### [{topic}]({topic}+.md)' +'\n')
+
 for repo in repoDict:
     repoTopics=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/topics', headers={"Accept":"application/vnd.github.mercy-preview+json","Authorization":f"token {token}"}).text)
     if len(repoTopics):
