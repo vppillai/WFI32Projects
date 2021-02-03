@@ -70,8 +70,9 @@ for repo in repoDict:
                         relStr=""
                         release=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/releases', headers={"Authorization":f"token {token}"}).text)
                         if len(release):                       
-                            if "tag_name" in release.keys():
-                                relStr=f'[{release["tag_name"]}]({release["html_url"]})'
+                            latestRel=release[0]
+                            if "tag_name" in latestRel.keys():
+                                relStr=f'[{latestRel["tag_name"]}]({latestRel["html_url"]})'
                         file.write(f'[{repo["name"]}]({repo["html_url"]}) | {repo["description"]} | {relStr}'+'\n')
                         file.close()
         except Exception as e:
