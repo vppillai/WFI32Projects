@@ -7,4 +7,4 @@
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | additional projects for PIC32MZW1 | 
 
 
-*Generated on UTC 2021-02-03 15:10:16.171678*
+<sub><i>Generated on UTC 2021-02-03 15:17:29.828323</sub></i>
