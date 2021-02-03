@@ -84,4 +84,4 @@ for repo in repoDict:
 current_utc = datetime.datetime.utcnow()
 for filename in glob.glob(os.path.join('docs', '*.md')):
    with open(os.path.join(os.getcwd(), filename), 'a') as f:
-      f.write('\n\n'+f'<sub><i>Generated on UTC {current_utc}</sub></i>'+'\n')
+      f.write('\n\n'+f'<sub><i>Generated on UTC {current_utc}</i></sub>'+'\n')
