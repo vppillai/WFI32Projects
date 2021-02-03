@@ -62,11 +62,15 @@ for repo in repoDict:
                         if not os.path.exists(fileName):
                             file = open(fileName, "w")
                             file.write(f'### Projects under topic {repoTopic} under {orgName}'+'\n\n')    
-                            file.write(f'|**Project**|**Description**|'+'\n')    
+                            file.write(f'|**Project**|**Description**|**Latest Release**|'+'\n')    
                             file.write(f'|---|---|'+'\n')    
                         else:
                             file = open(fileName, "a")
-                        file.write(f'[{repo["name"]}]({repo["html_url"]}) | {repo["description"]}'+'\n')
+                        release=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/releases', headers={"Authorization":f"token {token}"}).text)[0]
+                        relStr=""
+                        if "tag_name" release.keys():
+                            relStr=f'[{release["tag_name"]}]({release["html_url"]})'
+                        file.write(f'[{repo["name"]}]({repo["html_url"]}) | {repo["description"]} | {relStr}'+'\n')
                         file.close()
         except Exception as e:
             print(e)
