@@ -14,7 +14,7 @@ else :
 print("Fetching repo names")
 
 while page:
-    time.sleep(0.5) #ratelimit
+    time.sleep(0.25) #ratelimit
     reposJson=json.loads(requests.get(f'https://api.github.com/orgs/{orgName}/repos?per_page=100&page={pageNum}', headers={"Authorization": f'token {token}'}).text)
     if len(reposJson):
         for repo in reposJson:
@@ -50,7 +50,7 @@ for topic in topicsFilter:
     file.write(f'### [{topic}]({topic})' +'\n')
 
 for repo in repoDict:
-    time.sleep(0.5) #ratelimit
+    time.sleep(0.25) #ratelimit
     repoTopics=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/topics', headers={"Accept":"application/vnd.github.mercy-preview+json","Authorization":f"token {token}"}).text)
     if len(repoTopics):
         try:
