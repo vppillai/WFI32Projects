@@ -77,7 +77,7 @@ for repo in repoDict:
                         file.close()
         except Exception as e:
             print(e)
-            print("ERROR!! Error processing repo Topics")
+            print(repoTopics)
             exit(-2)
 
 #attach timestamp. will cause a force commit.
