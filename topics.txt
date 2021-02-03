@@ -1,2 +1,4 @@
 wfi32
-lora
+pic32mzw1
+lorawan
+linux
