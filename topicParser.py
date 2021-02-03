@@ -59,7 +59,7 @@ for repo in repoDict:
                     if repoTopic in topicsFilter:
                         #create table header
                         fileName=os.path.join(".","docs",repoTopic+".md")
-                        if not os.path.exists(fileName):
+                        if not os.path.exists(fileName): #prepare the table header
                             file = open(fileName, "w")
                             file.write(f'### Projects under topic *"{repoTopic}"* in {orgName}'+'\n\n')    
                             file.write(f'|**Project**|**Description**|**Latest Release**|'+'\n')    
@@ -69,9 +69,9 @@ for repo in repoDict:
                         #Fetch release tag
                         relStr=""
                         release=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/releases', headers={"Authorization":f"token {token}"}).text)
-                        if len(release):                       
-                            latestRel=release[0]
-                            if "tag_name" in latestRel.keys():
+                        if len(release):         #not every repo will have a release              
+                            latestRel=release[0] #take the latest release
+                            if "tag_name" in latestRel.keys(): #just a Defensive check
                                 relStr=f'[{latestRel["tag_name"]}]({latestRel["html_url"]})'
                         file.write(f'[{repo["name"]}]({repo["html_url"]}) | {repo["description"]} | {relStr}'+'\n')
                         file.close()
