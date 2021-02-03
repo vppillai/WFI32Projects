@@ -1,8 +1,8 @@
 name: topicParser
-on: [push]
-#on:
-#  schedule:    
-#  - cron: "*/60 * * * *"
+#on: [push]
+on:
+  schedule:    
+  - cron: "*/60 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
