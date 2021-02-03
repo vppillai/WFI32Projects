@@ -44,7 +44,7 @@ print("Fetching repo topics")
 
 #get all topics in repos and filter
 file=open(os.path.join(".","docs","readme.md"),"w")
-file.write(f'## Project topics under {orgName}'+'\n')    
+file.write(f'## Project topics under {orgName}'+'\n\n')    
 for topic in topicsFilter:
     file.write(f'### [{topic}]({topic})' +'\n')
 
@@ -59,7 +59,7 @@ for repo in repoDict:
                         fileName=os.path.join(".","docs",repoTopic+".md")
                         if not os.path.exists(fileName):
                             file = open(fileName, "w")
-                            file.write(f'### Projects under topic {repoTopic} under {orgName}'+'\n')    
+                            file.write(f'### Projects under topic {repoTopic} under {orgName}'+'\n\n')    
                             file.write(f'|**Project**|**Description**|'+'\n')    
                             file.write(f'|---|---|'+'\n')    
                         else:
