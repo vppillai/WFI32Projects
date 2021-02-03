@@ -61,7 +61,7 @@ for repo in repoDict:
                         fileName=os.path.join(".","docs",repoTopic+".md")
                         if not os.path.exists(fileName):
                             file = open(fileName, "w")
-                            file.write(f'### Projects under topic {repoTopic} under {orgName}'+'\n\n')    
+                            file.write(f'### Projects under topic *"{repoTopic}"* in {orgName}'+'\n\n')    
                             file.write(f'|**Project**|**Description**|**Latest Release**|'+'\n')    
                             file.write(f'|---|---|'+'\n')    
                         else:
