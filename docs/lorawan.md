@@ -1,4 +1,4 @@
-### Projects under topic lorawan under MicrochipTech
+### Projects under topic *"lorawan"* in MicrochipTech
 
 |**Project**|**Description**|**Latest Release**|
 |---|---|
@@ -10,4 +10,4 @@
 [LoRaWAN-Weather-Station-Demo-using-SAMR34](https://github.com/MicrochipTech/LoRaWAN-Weather-Station-Demo-using-SAMR34) | Collecting sensor data from a weather station and sending it over LoRaWAN protocol using SAM R34 | 
 
 
-*Generated on UTC 2021-02-03 14:55:32.762444*
+*Generated on UTC 2021-02-03 15:10:16.171678*
