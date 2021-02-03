@@ -1,4 +1,5 @@
 ### Projects under topic wfi32 under MicrochipTech
+
 |**Project**|**Description**|
 |---|---|
 [PIC32MZW1_Curiosity_OOB](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB) | "Wireless Made Easy!" - OOB demo collateral for PIC23MZW1 Curiosty board
