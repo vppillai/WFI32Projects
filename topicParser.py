@@ -1,4 +1,4 @@
-import requests,json,shutil,os,sys,time
+import requests,json,shutil,os,sys,time,glob,datetime
 
 #get all repo names
 orgName='MicrochipTech'
@@ -76,3 +76,10 @@ for repo in repoDict:
             print(e)
             print("ERROR!! Error processing repo Topics")
             exit(-2)
+
+#attach timestamp. will cause a force commit.
+current_utc = datetime.datetime.utcnow()
+for filename in glob.glob(os.path.join('docs', '*.md')):
+   with open(os.path.join(os.getcwd(), filename), 'a') as f:
+      f.write('\n\n'+f'*Generated on UTC {current_utc}*'+'\n')
+
