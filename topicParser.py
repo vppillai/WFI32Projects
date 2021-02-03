@@ -66,10 +66,12 @@ for repo in repoDict:
                             file.write(f'|---|---|'+'\n')    
                         else:
                             file = open(fileName, "a")
-                        release=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/releases', headers={"Authorization":f"token {token}"}).text)[0]
+                        #Fetch release tag
                         relStr=""
-                        if "tag_name" in release.keys():
-                            relStr=f'[{release["tag_name"]}]({release["html_url"]})'
+                        release=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/releases', headers={"Authorization":f"token {token}"}).text)
+                        if len(release):                       
+                            if "tag_name" in release.keys():
+                                relStr=f'[{release["tag_name"]}]({release["html_url"]})'
                         file.write(f'[{repo["name"]}]({repo["html_url"]}) | {repo["description"]} | {relStr}'+'\n')
                         file.close()
         except Exception as e:
