@@ -2,7 +2,7 @@ name: topicParser
 #on: [push]
 on:
   schedule:    
-    - cron: "*/60 * * * *"
+    - cron: "*/300 * * * *"
   workflow_dispatch:
 
 jobs:
