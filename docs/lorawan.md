@@ -10,4 +10,4 @@
 [LoRaWAN-Weather-Station-Demo-using-SAMR34](https://github.com/MicrochipTech/LoRaWAN-Weather-Station-Demo-using-SAMR34) | Collecting sensor data from a weather station and sending it over LoRaWAN protocol using SAM R34 | 
 
 
-<sub><i>Generated on UTC 2021-02-04 11:04:35.076984</i></sub>
+<sub><i>Generated on UTC 2021-02-04 12:20:29.279451</i></sub>
