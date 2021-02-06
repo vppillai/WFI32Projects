@@ -1,6 +1,6 @@
 <img align="left" width="100" height="100" src="docs/logo.jpg"> 
 
-# WFI32Projects
+# Project topic Parser
 
 
 ![](https://github.com/vppillai/wfi32Projects/workflows/topicParser/badge.svg)
