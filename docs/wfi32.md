@@ -1,6 +1,6 @@
 <img align="left" width="100" height="100" src="logo.jpg">
 
-# Projects under topic *"wfi32"* in MicrochipTech
+# Projects under topic *"wfi32"* in [MicrochipTech](https://github.com/MicrochipTech)
 
 |**Project**|**Description**|**Latest Release**|
 |---|---|
@@ -9,4 +9,4 @@
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | additional projects for PIC32MZW1 | N/A
 
 
-<sub><i>Generated on UTC 2021-02-06 09:07:47.740332</i></sub>
+<sub><i>Generated on UTC 2021-02-06 09:12:09.444799</i></sub>
