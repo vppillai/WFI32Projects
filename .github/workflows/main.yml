@@ -19,7 +19,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       - run: python topicParser.py ${{ secrets.GITHUB_TOKEN }}
-        timeout-minutes: 10
+        timeout-minutes: 5
       - uses: EndBug/add-and-commit@v7
         with:
           add: "*"
