@@ -1,3 +1,4 @@
+<img align="left" width="100" height="100" src="logo.jpg">
 # Project topics in MicrochipTech
 
 ### [wfi32](wfi32)
@@ -6,4 +7,4 @@
 ### [linux](linux)
 
 
-<sub><i>Generated on UTC 2021-02-06 07:14:49.138675</i></sub>
+<sub><i>Generated on UTC 2021-02-06 07:25:26.637161</i></sub>
