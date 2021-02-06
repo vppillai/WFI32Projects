@@ -1,3 +1,5 @@
+<img align="left" width="100" height="100" src="logo.jpg">
+
 # Projects under topic *"lorawan"* in MicrochipTech
 
 |**Project**|**Description**|**Latest Release**|
@@ -7,4 +9,4 @@
 [Wireless-Sensor-Network-2019](https://github.com/MicrochipTech/Wireless-Sensor-Network-2019) | Wireless Sensor Network 2019 - LoRaWAN, WiFi and MiWi Demo | N/A
 
 
-<sub><i>Generated on UTC 2021-02-06 07:25:26.637161</i></sub>
+<sub><i>Generated on UTC 2021-02-06 07:28:17.341795</i></sub>
