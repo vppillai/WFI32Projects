@@ -65,7 +65,7 @@ for topic in topicsFilter:
         #write data to file
         for repo in repoDict:
             time.sleep(0.1) #ratelimit
-            relStr=""
+            relStr="N/A"
             release=json.loads(requests.get(f'https://api.github.com/repos/{orgName}/{repo["name"]}/releases', headers={"Authorization":f"token {token}"}).text)
             if len(release):         #not every repo will have a release              
                 latestRel=release[0] #take the latest release
