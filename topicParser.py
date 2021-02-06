@@ -14,11 +14,8 @@ with open('topics.txt') as f:
     topicsFilter = f.read().splitlines()
     
 #prepare the output folder
-try:
-    shutil.rmtree(os.path.join(".","docs"))
-except:
-    pass
-os.mkdir(os.path.join(".","docs"))
+for mdpath in glob.iglob(os.path.join("docs", '*.md')):
+    os.remove(mdpath)
 
 #Create the main readme
 file=open(os.path.join(".","docs","readme.md"),"w")
