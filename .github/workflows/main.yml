@@ -27,6 +27,6 @@ jobs:
           author_email: vysakhpillai@gmail.com
           branch: main
           #cwd: './WFI32Projects'
-          message: "JSON Update"
+          message: "topicParser Commit"
           #pull_strategy: "--rebase"
           push: true
