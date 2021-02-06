@@ -19,7 +19,7 @@ for mdpath in glob.iglob(os.path.join("docs", '*.md')):
 
 #Create the main readme
 file=open(os.path.join(".","docs","readme.md"),"w")
-file.write(f'<img align="left" width="100" height="100" src="logo.jpg">'+'\n')
+file.write(f'<img align="left" width="100" height="100" src="logo.jpg">'+'\n\n')
 file.write(f'# Project topics in {orgName}'+'\n\n')    
 for topic in topicsFilter:
     file.write(f'### [{topic}]({topic})' +'\n')
@@ -54,6 +54,7 @@ for topic in topicsFilter:
         fileName=os.path.join(".","docs",topic+".md")
         if not os.path.exists(fileName): #prepare the table header
             file = open(fileName, "a")
+            file.write(f'<img align="left" width="100" height="100" src="logo.jpg">'+'\n\n')
             file.write(f'# Projects under topic *"{topic}"* in {orgName}'+'\n\n')    
             file.write(f'|**Project**|**Description**|**Latest Release**|'+'\n')    
             file.write(f'|---|---|'+'\n')    
