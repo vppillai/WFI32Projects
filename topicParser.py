@@ -55,7 +55,7 @@ for topic in topicsFilter:
         if not os.path.exists(fileName): #prepare the table header
             file = open(fileName, "a")
             file.write(f'<img align="left" width="100" height="100" src="logo.jpg">'+'\n\n')
-            file.write(f'# Projects under topic *"{topic}"* in [{orgName}](https://github.com/{orgName})'+'\n\n')    
+            file.write(f'# Projects under topic [*"{topic}"*](https://github.com/search?q=org%3A{orgName}+topic%3A{topic}&type=repository) in [{orgName}](https://github.com/{orgName})'+'\n\n')    
             file.write(f'|**Project**|**Description**|**Latest Release**|'+'\n')    
             file.write(f'|---|---|'+'\n')    
         else:
