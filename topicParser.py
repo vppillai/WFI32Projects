@@ -13,6 +13,12 @@ else :
 with open('topics.txt') as f:
     topicsFilter = f.read().splitlines()
 
+#Create the main readme
+file=open(os.path.join(".","docs","readme.md"),"w")
+file.write(f'## Project topics in {orgName}'+'\n\n')    
+for topic in topicsFilter:
+    file.write(f'### [{topic}]({topic})' +'\n')
+    
 #prepare the output folder
 try:
     shutil.rmtree(os.path.join(".","docs"))
