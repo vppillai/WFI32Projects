@@ -1,5 +1,5 @@
 ---
-title: Projects under topic *"linux"* in MicrochipTech
+title: Projects under topic linux in MicrochipTech
 
 ---
 
