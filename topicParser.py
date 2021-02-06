@@ -19,7 +19,7 @@ for mdpath in glob.iglob(os.path.join("docs", '*.md')):
 
 #Create the main readme
 file=open(os.path.join(".","docs","readme.md"),"w")
-file.write(f'## Project topics in {orgName}'+'\n\n')    
+#file.write(f'## Project topics in {orgName}'+'\n\n')    
 for topic in topicsFilter:
     file.write(f'### [{topic}]({topic})' +'\n')
 
