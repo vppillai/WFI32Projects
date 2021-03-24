@@ -7,4 +7,4 @@
 [unicens-linux-daemon](https://github.com/MicrochipTech/unicens-linux-daemon) | unicensd is the UNICENS Daemon for Linux, Android and QNX | [V04.05.00](https://github.com/MicrochipTech/unicens-linux-daemon/releases/tag/V04.05.00)
 
 
-<sub><i>Generated on UTC 2021-03-23 00:29:39.458737</i></sub>
+<sub><i>Generated on UTC 2021-03-24 00:30:11.071363</i></sub>
