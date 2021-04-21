@@ -9,4 +9,4 @@
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | “Wireless Made Easy!" - additional projects for PIC32MZW1 | N/A
 
 
-<sub><i>Generated on UTC 2021-04-20 00:11:48.790859</i></sub>
+<sub><i>Generated on UTC 2021-04-21 00:11:43.958538</i></sub>
