@@ -1,7 +1,7 @@
 import requests,json,shutil,os,sys,time,glob,datetime
 
 #get all repo names
-orgName='MicrochipTech'
+orgName='MicrochipTech+org:Microchip-MPLAB-Harmony'
 page=True
 
 if len(sys.argv) >=2:
