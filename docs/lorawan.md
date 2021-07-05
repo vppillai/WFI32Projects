@@ -15,12 +15,12 @@
 [AVR-IoT_LoRa_Click](https://github.com/MicrochipTech/AVR-IoT_LoRa_Click) | The project source code of the "Adding LoRa® RN2483 Click to AVR-IoT WG Board (ATmega4808)" Application Note | N/A
 [atsamr34_ecc608a_actility](https://github.com/MicrochipTech/atsamr34_ecc608a_actility) | "Wireless Made Easy!" - Develop with the SAM R34 or WLR089U and Microchip LoRaWAN(tm) stack on Actility join server | N/A
 [atsamr34_lorawan_smart_meter](https://github.com/MicrochipTech/atsamr34_lorawan_smart_meter) | “Wireless Made Easy!" - Enable pulse counting on a Low Power LoRaWAN Application | N/A
-[atsamr34_rn487x_lorawan_ble](https://github.com/MicrochipTech/atsamr34_rn487x_lorawan_ble) | "Wireless Made Easy!" - Adding BLE features & provisioning to an existing LoRaWAN Application | N/A
 [atsamr34_lorawan_wifi_ap_scan](https://github.com/MicrochipTech/atsamr34_lorawan_wifi_ap_scan) | “Wireless Made Easy!" - Adding WiFi Sniffing to an existing LoRaWAN Application | N/A
+[atsamr34_rn487x_lorawan_ble](https://github.com/MicrochipTech/atsamr34_rn487x_lorawan_ble) | "Wireless Made Easy!" - Adding BLE features & provisioning to an existing LoRaWAN Application | N/A
 [emb-lr1276s_tti](https://github.com/MicrochipTech/emb-lr1276s_tti) | “Wireless Made Easy!" - Develop with the EMBIT EMB-LR1276S LoRaWAN Module and Microchip LoRaWAN stack on TTI join server | N/A
 [atsamr34_ecc608a_tti](https://github.com/MicrochipTech/atsamr34_ecc608a_tti) | “Wireless Made Easy!" - Develop with the SAM R34 or WLR089U and Microchip LoRaWAN(tm) stack on TTI Join Server | N/A
 [WLR089U0_LORAWAN_ORANGE](https://github.com/MicrochipTech/WLR089U0_LORAWAN_ORANGE) | "Wireless Made Easy!" - Getting Started with WLR089U0 and Orange LoRaWAN Network | N/A
 [iot_solutions_for_smart_city](https://github.com/MicrochipTech/iot_solutions_for_smart_city) | “Wireless Made Fun!" - IoT Solutions for Smart City | N/A
 
 
-<sub><i>Generated on UTC 2021-07-04 01:05:04.169650</i></sub>
+<sub><i>Generated on UTC 2021-07-05 01:02:26.943789</i></sub>
