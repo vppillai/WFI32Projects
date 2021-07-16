@@ -23,4 +23,4 @@
 [iot_solutions_for_smart_city](https://github.com/MicrochipTech/iot_solutions_for_smart_city) | “Wireless Made Fun!" - IoT Solutions for Smart City | N/A
 
 
-<sub><i>Generated on UTC 2021-07-15 01:05:26.489202</i></sub>
+<sub><i>Generated on UTC 2021-07-16 01:05:20.028067</i></sub>
