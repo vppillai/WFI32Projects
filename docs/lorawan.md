@@ -6,8 +6,8 @@
 |---|---|---|
 [atsamr34_lorawan_rn_parser](https://github.com/MicrochipTech/atsamr34_lorawan_rn_parser) | "Wireless Made Easy!" - Control SAM R34 or WLR089U0 Module with ASCII command set over UART | N/A
 [RN2xx3_LORAWAN_FIRMWARE](https://github.com/MicrochipTech/RN2xx3_LORAWAN_FIRMWARE) | "Wireless Made Easy!" - Open sourcing the latest RN2xx3 beta firmware for self-support, self-maintenance and self-programming | N/A
-[Wireless-Sensor-Network](https://github.com/MicrochipTech/Wireless-Sensor-Network) | Create a Wi-Fi/ MiWi / LoRa wireless sensor network to monitor the temperature across classrooms during Masters conference | N/A
 [Location-Tracking-using-SAMR34-and-UBLOX-GPS-Module](https://github.com/MicrochipTech/Location-Tracking-using-SAMR34-and-UBLOX-GPS-Module) | Location Tracking Application on SAMR34 using a UBLOX GPS Module (LEA-6S) | N/A
+[Wireless-Sensor-Network](https://github.com/MicrochipTech/Wireless-Sensor-Network) | Create a Wi-Fi/ MiWi / LoRa wireless sensor network to monitor the temperature across classrooms during Masters conference | N/A
 [atsamr34_lorawan_lora_modulation](https://github.com/MicrochipTech/atsamr34_lorawan_lora_modulation) | “Wireless Made Easy!" - Adding LoRa Peer-to-Peer Connection to an existing LoRaWAN Application | N/A
 [Wireless-Sensor-Network-2019](https://github.com/MicrochipTech/Wireless-Sensor-Network-2019) | Wireless Sensor Network 2019 - LoRaWAN, WiFi and MiWi Demo | N/A
 [secure_lorawan_with_tti](https://github.com/MicrochipTech/secure_lorawan_with_tti) | "Wireless Made Fun!" - Secure Authentication with SAMR34 or WLR089U, ATECC608A and The Things Industries’s Join Server | N/A
@@ -23,4 +23,4 @@
 [iot_solutions_for_smart_city](https://github.com/MicrochipTech/iot_solutions_for_smart_city) | “Wireless Made Fun!" - IoT Solutions for Smart City | N/A
 
 
-<sub><i>Generated on UTC 2021-08-26 01:00:44.191099</i></sub>
+<sub><i>Generated on UTC 2021-08-27 01:08:12.489199</i></sub>
