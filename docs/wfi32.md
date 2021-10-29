@@ -10,4 +10,4 @@
 [PIC32MZW1_refDesign_OOB](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB) | OOB demo for the PIC32MZW1 reference design board | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB/releases/tag/v1.0.0)
 
 
-<sub><i>Generated on UTC 2021-10-28 01:06:36.796273</i></sub>
+<sub><i>Generated on UTC 2021-10-29 01:04:48.569132</i></sub>
