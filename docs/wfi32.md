@@ -11,4 +11,4 @@
 [PIC32MZW1_UARTManifest](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest) | "Wireless Made Easy!" - Tool framework to extract manifest file from the TNGTLS device onboard a WFI32 module  | [v1.1.0](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest/releases/tag/v1.1.0)
 
 
-<sub><i>Generated on UTC 2021-11-07 01:09:48.412141</i></sub>
+<sub><i>Generated on UTC 2021-11-08 01:07:39.566574</i></sub>
