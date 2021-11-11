@@ -11,4 +11,4 @@
 [PIC32MZW1_refDesign_OOB](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB) | "Wireless Made Easy!" - OOB demo for the PIC32MZW1 reference design board | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB/releases/tag/v1.0.0)
 
 
-<sub><i>Generated on UTC 2021-11-10 01:07:17.379954</i></sub>
+<sub><i>Generated on UTC 2021-11-11 01:08:28.923322</i></sub>
