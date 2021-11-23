@@ -25,4 +25,4 @@
 [ATSAMR34_LORAWAN_H3](https://github.com/MicrochipTech/ATSAMR34_LORAWAN_H3) | "Wireless Made Easy!" - Microchip LoRaWAN Stack Opened for SAM R34 IC and WLR089U0 Module running on MPLAB X IDE | N/A
 
 
-<sub><i>Generated on UTC 2021-11-22 01:08:58.967224</i></sub>
+<sub><i>Generated on UTC 2021-11-23 01:07:47.996510</i></sub>
