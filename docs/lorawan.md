@@ -19,10 +19,10 @@
 [atsamr34_lorawan_smart_meter](https://github.com/MicrochipTech/atsamr34_lorawan_smart_meter) | “Wireless Made Easy!" - Enable pulse counting on a Low Power LoRaWAN Application | N/A
 [atsamr34_lorawan_wifi_ap_scan](https://github.com/MicrochipTech/atsamr34_lorawan_wifi_ap_scan) | “Wireless Made Easy!" - Adding WiFi Sniffing to an existing LoRaWAN Application | N/A
 [atsamr34_rn487x_lorawan_ble](https://github.com/MicrochipTech/atsamr34_rn487x_lorawan_ble) | "Wireless Made Easy!" - Adding BLE features & provisioning to an existing LoRaWAN Application | N/A
+[ATSAMR34_LORAWAN_H3](https://github.com/MicrochipTech/ATSAMR34_LORAWAN_H3) | "Wireless Made Easy!" - Microchip LoRaWAN Stack Opened for SAM R34 IC and WLR089U0 Module running on MPLAB X IDE | N/A
+[ATSAMR34_LORAWAN_ASFv3](https://github.com/MicrochipTech/ATSAMR34_LORAWAN_ASFv3) | "Wireless Made Easy!" - Microchip LoRaWAN Stack Opened for SAM R34 IC and WLR089U0 Module running on Microchip Studio IDE | N/A
 [atsamr34_ecc608a_tti](https://github.com/MicrochipTech/atsamr34_ecc608a_tti) | “Wireless Made Easy!" - Develop with the SAM R34 or WLR089U and Microchip LoRaWAN(tm) stack on TTI Join Server | N/A
 [emb-lr1276s_tti](https://github.com/MicrochipTech/emb-lr1276s_tti) | “Wireless Made Easy!" - Develop with the EMBIT EMB-LR1276S LoRaWAN Module and Microchip LoRaWAN stack on TTI join server | N/A
-[ATSAMR34_LORAWAN_ASFv3](https://github.com/MicrochipTech/ATSAMR34_LORAWAN_ASFv3) | "Wireless Made Easy!" - Microchip LoRaWAN Stack Opened for SAM R34 IC and WLR089U0 Module running on Microchip Studio IDE | N/A
-[ATSAMR34_LORAWAN_H3](https://github.com/MicrochipTech/ATSAMR34_LORAWAN_H3) | "Wireless Made Easy!" - Microchip LoRaWAN Stack Opened for SAM R34 IC and WLR089U0 Module running on MPLAB X IDE | N/A
 
 
-<sub><i>Generated on UTC 2021-11-24 01:07:21.503018</i></sub>
+<sub><i>Generated on UTC 2021-11-25 01:08:44.627097</i></sub>
