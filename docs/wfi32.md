@@ -13,4 +13,4 @@
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "Wireless Made Easy!" - OOB demo collateral for WFI32-IoT board | [v1.0](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v1.0)
 
 
-<sub><i>Generated on UTC 2021-12-19 00:14:26.678829</i></sub>
+<sub><i>Generated on UTC 2021-12-20 00:14:13.845470</i></sub>
