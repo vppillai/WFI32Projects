@@ -4,7 +4,7 @@
 
 |**Project**|**Description**|**Latest Release**|
 |---|---|---|
-[PIC32MZW1_Curiosity_OOB](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB) | "Wireless Made Easy!" - OOB demo collateral for PIC32MZW1 Curiosty board | [v2.0.0-RC1](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/tag/v2.0.0-RC1)
+[PIC32MZW1_Curiosity_OOB](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB) | "Wireless Made Easy!" - OOB demo collateral for PIC32MZW1 Curiosty board | [v2.0.0](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/tag/v2.0.0)
 [PIC32MZW1_Workshop](https://github.com/MicrochipTech/PIC32MZW1_Workshop) | "Wireless Made Easy!" - Guided System Development to learn PIC32MZ W1 Family Device | N/A
 [pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "Wireless Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | “Wireless Made Easy!" - additional projects for PIC32MZW1 | N/A
@@ -13,4 +13,4 @@
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "Wireless Made Easy!" - OOB demo collateral for WFI32-IoT board | [v1.6](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v1.6)
 
 
-<sub><i>Generated on UTC 2022-02-17 01:07:56.184020</i></sub>
+<sub><i>Generated on UTC 2022-02-18 01:20:10.445665</i></sub>
