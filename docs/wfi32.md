@@ -13,9 +13,9 @@
 [PIC32MZW1_WIFI_TOUCH_OLED](https://github.com/MicrochipTech/PIC32MZW1_WIFI_TOUCH_OLED) | "Wireless Made Easy!" - This example application acts as a TCP Server to which a TCP Client can connect and visualize QT7 Touch Xpro data. The touch data are also printed on an OLED Display. | N/A
 [PIC32MZW1_UART_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_UART_WIFI_Bridge) | This example application enable a Transparent UART Bridge over Wi-Fi based on TCP/IP Client/Server | N/A
 [PIC32MZW1_refDesign_OOB](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB) | "Wireless Made Easy!" - OOB demo for the PIC32MZW1 reference design board | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB/releases/tag/v1.0.0)
-[PIC32MZW1_UARTManifest](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest) | "Wireless Made Easy!" - Tool framework to extract manifest file from the TNGTLS device onboard a WFI32 module  | [v1.3.0](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest/releases/tag/v1.3.0)
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "Wireless Made Easy!" - OOB demo collateral for WFI32-IoT board | [v1.6](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v1.6)
+[PIC32MZW1_UARTManifest](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest) | "Wireless Made Easy!" - Tool framework to extract manifest file from the TNGTLS device onboard a WFI32 module  | [v1.3.0](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest/releases/tag/v1.3.0)
 [PIC32MZW1_BLE_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_BLE_WIFI_Bridge) | "Wireless Made Easy!" - This example application bridge the BLE link and Wi-Fi to enable Wi-Fi communication and configuration over BLE | N/A
 
 
-<sub><i>Generated on UTC 2022-03-09 01:25:41.319098</i></sub>
+<sub><i>Generated on UTC 2022-03-11 01:33:43.695559</i></sub>
