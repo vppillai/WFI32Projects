@@ -25,4 +25,4 @@
 [emb-lr1276s_tti](https://github.com/MicrochipTech/emb-lr1276s_tti) | “Wireless Made Easy!" - Develop with the EMBIT EMB-LR1276S LoRaWAN Module and Microchip LoRaWAN stack on TTI join server | N/A
 
 
-<sub><i>Generated on UTC 2022-03-19 01:23:37.138977</i></sub>
+<sub><i>Generated on UTC 2022-03-20 01:33:46.339676</i></sub>
