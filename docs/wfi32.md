@@ -19,4 +19,4 @@
 [PIC32MZW1_Ethernet_WIFI_Bridge_For_Ethernet_End_Node](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge_For_Ethernet_End_Node) | "Wireless Made Easy!" - This example application bridge the Ethernet end node over Wi-Fi using WFI32E as a STATION | N/A
 
 
-<sub><i>Generated on UTC 2022-04-12 01:47:48.202072</i></sub>
+<sub><i>Generated on UTC 2022-04-13 01:55:46.244549</i></sub>
