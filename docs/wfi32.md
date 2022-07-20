@@ -13,8 +13,8 @@
 [pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "Wireless Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "Wireless Made Easy!" - OOB demo collateral for WFI32-IoT board | [v1.6](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v1.6)
 [PIC32MZW1_refDesign_OOB](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB) | "Wireless Made Easy!" - OOB demo for the PIC32MZW1 reference design board | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB/releases/tag/v1.0.0)
-[PIC32MZW1_Ethernet_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge) | "Wireless Made Easy!" - This example application bridge the LAN and Wireless LAN on a single and same sub network | N/A
 [PIC32MZW1_WIFI_TOUCH_OLED](https://github.com/MicrochipTech/PIC32MZW1_WIFI_TOUCH_OLED) | "Wireless Made Easy!" - This example application acts as a TCP Server to which a TCP Client can connect and visualize QT7 Touch Xpro data. The touch data are also printed on an OLED Display. | N/A
+[PIC32MZW1_Ethernet_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge) | "Wireless Made Easy!" - This example application bridge the LAN and Wireless LAN on a single and same sub network | N/A
 [PIC32MZW1_AnyCloud](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud) | "Wireless Made Easy!" - This PIC32MZW1 example application is used for connecting to any of the three Clouds- AWS, Azure or test.mosquitto.org or a server. | [v1.0.1](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud/releases/tag/v1.0.1)
 [PIC32MZW1_UART_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_UART_WIFI_Bridge) | "Wireless Made Easy!" - This example application enable a Transparent UART Bridge over Wi-Fi based on TCP/IP Client/Server | N/A
 [PIC32MZW1_Ethernet_WIFI_Bridge_For_Ethernet_End_Node](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge_For_Ethernet_End_Node) | "Wireless Made Easy!" - This example application bridge the Ethernet end node over Wi-Fi using WFI32E as a STATION | N/A
@@ -23,4 +23,4 @@
 [PIC32MZW1_Secured_TCP_Client_With_ECC_Crypto_Coprocessor](https://github.com/MicrochipTech/PIC32MZW1_Secured_TCP_Client_With_ECC_Crypto_Coprocessor) | "Wireless Made Easy!" - This PIC32MZW1 example application acts as a TCP Client to connect to Secured TCP Server with ECC608 TNG crytpo coprocessor and exchange data | N/A
 
 
-<sub><i>Generated on UTC 2022-07-18 02:19:19.248022</i></sub>
+<sub><i>Generated on UTC 2022-07-20 02:15:59.792709</i></sub>
