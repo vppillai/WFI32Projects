@@ -25,4 +25,4 @@
 [atsamr34_lorawan_wifi_ap_scan](https://github.com/MicrochipTech/atsamr34_lorawan_wifi_ap_scan) | “Wireless Made Easy!" - Adding WiFi Sniffing to an existing LoRaWAN Application | N/A
 
 
-<sub><i>Generated on UTC 2022-07-24 02:24:27.701515</i></sub>
+<sub><i>Generated on UTC 2022-07-25 02:16:55.872215</i></sub>
