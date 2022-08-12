@@ -23,4 +23,4 @@
 [PIC32MZW1_Secured_TCP_Client_With_ECC_Crypto_Coprocessor](https://github.com/MicrochipTech/PIC32MZW1_Secured_TCP_Client_With_ECC_Crypto_Coprocessor) | "Wireless Made Easy!" - This PIC32MZW1 example application acts as a TCP Client to connect to Secured TCP Server with ECC608 TNG crytpo coprocessor and exchange data | N/A
 
 
-<sub><i>Generated on UTC 2022-08-11 14:10:43.529148</i></sub>
+<sub><i>Generated on UTC 2022-08-12 02:09:32.984318</i></sub>
