@@ -24,4 +24,4 @@
 [PIC32MZW1_BLE_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_BLE_WIFI_Bridge) | "Wireless Made Easy!" - This example application bridge the BLE link and Wi-Fi to enable Wi-Fi communication and configuration over BLE | N/A
 
 
-<sub><i>Generated on UTC 2022-08-28 02:38:40.441387</i></sub>
+<sub><i>Generated on UTC 2022-08-29 02:36:28.282148</i></sub>
