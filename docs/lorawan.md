@@ -15,8 +15,8 @@
 [iot_solutions_for_smart_city](https://github.com/MicrochipTech/iot_solutions_for_smart_city) | “Wireless Made Fun!" - IoT Solutions for Smart City | N/A
 [atsamr34_rn487x_lorawan_ble](https://github.com/MicrochipTech/atsamr34_rn487x_lorawan_ble) | "Wireless Made Easy!" - Adding BLE features & provisioning to an existing LoRaWAN Application | N/A
 [atsamr34_ecc608a_actility](https://github.com/MicrochipTech/atsamr34_ecc608a_actility) | "Wireless Made Easy!" - Develop with the SAM R34 or WLR089U and Microchip LoRaWAN(tm) stack on Actility join server | N/A
-[secure_lorawan_with_tti](https://github.com/MicrochipTech/secure_lorawan_with_tti) | "Wireless Made Fun!" - Secure Authentication with SAMR34 or WLR089U, ATECC608A and The Things Industries’s Join Server | N/A
 [WLR089U0_LORAWAN_ORANGE](https://github.com/MicrochipTech/WLR089U0_LORAWAN_ORANGE) | "Wireless Made Easy!" - Getting Started with WLR089U0 and Orange LoRaWAN Network | N/A
+[secure_lorawan_with_tti](https://github.com/MicrochipTech/secure_lorawan_with_tti) | "Wireless Made Fun!" - Secure Authentication with SAMR34 or WLR089U, ATECC608A and The Things Industries’s Join Server | N/A
 [AVR-IoT_LoRa_Click](https://github.com/MicrochipTech/AVR-IoT_LoRa_Click) | The project source code of the "Adding LoRa® RN2483 Click to AVR-IoT WG Board (ATmega4808)" Application Note | N/A
 [ATSAMR34_LORAWAN_ASFv3](https://github.com/MicrochipTech/ATSAMR34_LORAWAN_ASFv3) | "Wireless Made Easy!" - Microchip LoRaWAN Stack Opened for SAM R34 IC and WLR089U0 Module running on Microchip Studio IDE | N/A
 [atsamr34_ecc608a_tti](https://github.com/MicrochipTech/atsamr34_ecc608a_tti) | “Wireless Made Easy!" - Develop with the SAM R34 or WLR089U and Microchip LoRaWAN(tm) stack on TTI Join Server | N/A
@@ -25,4 +25,4 @@
 [atsamr34_lorawan_wifi_ap_scan](https://github.com/MicrochipTech/atsamr34_lorawan_wifi_ap_scan) | “Wireless Made Easy!" - Adding WiFi Sniffing to an existing LoRaWAN Application | N/A
 
 
-<sub><i>Generated on UTC 2022-09-15 02:48:19.343862</i></sub>
+<sub><i>Generated on UTC 2022-09-16 02:48:01.999982</i></sub>
