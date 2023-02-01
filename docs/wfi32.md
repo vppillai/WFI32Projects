@@ -6,8 +6,8 @@
 |---|---|---|
 [PIC32MZW1_Curiosity_OOB](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB) | "IoT Made Easy!" - OOB demo collateral for PIC32MZW1 Curiosty board | [v2.03](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/tag/v2.03)
 [PIC32MZW1_Workshop](https://github.com/MicrochipTech/PIC32MZW1_Workshop) | "IoT Made Easy!" - Guided System Development to learn PIC32MZ W1 Family Device | N/A
-[PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.0)
 [PIC32MZW1_Ethernet_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the LAN and Wireless LAN on a single and same sub network | N/A
+[PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.0)
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | “IoT Made Easy!" - additional projects for PIC32MZW1 | N/A
 [PIC32MZW1_WFI32_IFTTT_Action_Example](https://github.com/MicrochipTech/PIC32MZW1_WFI32_IFTTT_Action_Example) | "IoT Made Easy!" - IFTTT action demo collateral for WFI32-IoT board or PIC32MZW1 Curiosty board | N/A
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v2.1](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v2.1)
@@ -26,4 +26,4 @@
 [PIC32MZW1_BLE_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_BLE_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the BLE link and Wi-Fi to enable Wi-Fi communication and configuration over BLE | N/A
 
 
-<sub><i>Generated on UTC 2023-01-31 01:45:40.793595</i></sub>
+<sub><i>Generated on UTC 2023-02-01 01:53:49.535585</i></sub>
