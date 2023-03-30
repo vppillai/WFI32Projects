@@ -4,9 +4,9 @@
 
 |**Project**|**Description**|**Latest Release**|
 |---|---|---|
-[PIC32MZW1_Curiosity_OOB](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB) | "IoT Made Easy!" - OOB demo collateral for PIC32MZW1 Curiosty board | [v2.03](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/tag/v2.03)
+[PIC32MZW1_Curiosity_OOB](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB) | "IoT Made Easy!" - OOB demo collateral for PIC32MZW1 Curiosty board | [v3.0.0](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/tag/v3.0.0)
 [PIC32MZW1_Workshop](https://github.com/MicrochipTech/PIC32MZW1_Workshop) | "IoT Made Easy!" - Guided System Development to learn PIC32MZ W1 Family Device | N/A
-[WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v2.1](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v2.1)
+[WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v3.0](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v3.0)
 [PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.1](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.1)
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | “IoT Made Easy!" - additional projects for PIC32MZW1 | N/A
 [pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "IoT Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
@@ -25,4 +25,4 @@
 [PIC32MZW1_RMII_Bridge_with_PHY_StationMode](https://github.com/MicrochipTech/PIC32MZW1_RMII_Bridge_with_PHY_StationMode) | "IoT Made Easy!" - This example application acts as a bridge to bridge up Wi-Fi and ETH interface of WFI32 device | N/A
 
 
-<sub><i>Generated on UTC 2023-03-29 01:43:46.348881</i></sub>
+<sub><i>Generated on UTC 2023-03-30 01:37:17.685015</i></sub>
