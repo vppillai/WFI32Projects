@@ -28,4 +28,4 @@
 [AzureDemo_WFI32E01](https://github.com/MicrochipTech/AzureDemo_WFI32E01) | "IoT Made Easy!" - Connect the WFI32E01PC module to Microsoft Azure | N/A
 
 
-<sub><i>Generated on UTC 2023-04-02 01:34:57.692725</i></sub>
+<sub><i>Generated on UTC 2023-04-03 01:23:54.212686</i></sub>
