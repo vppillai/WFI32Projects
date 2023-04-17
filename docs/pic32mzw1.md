@@ -7,8 +7,8 @@
 [PIC32MZW1_Curiosity_OOB](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB) | "IoT Made Easy!" - OOB demo collateral for PIC32MZW1 Curiosty board | [v3.0.0](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/tag/v3.0.0)
 [PIC32MZW1_Workshop](https://github.com/MicrochipTech/PIC32MZW1_Workshop) | "IoT Made Easy!" - Guided System Development to learn PIC32MZ W1 Family Device | N/A
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v3.0](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v3.0)
-[PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.1](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.1)
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | “IoT Made Easy!" - additional projects for PIC32MZW1 | N/A
+[PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.1](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.1)
 [pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "IoT Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
 [PIC32MZW1_WFI32_IFTTT_Action_Example](https://github.com/MicrochipTech/PIC32MZW1_WFI32_IFTTT_Action_Example) | "IoT Made Easy!" - IFTTT action demo collateral for WFI32-IoT board or PIC32MZW1 Curiosty board | N/A
 [PIC32MZW1_Ethernet_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the LAN and Wireless LAN on a single and same sub network | N/A
@@ -26,4 +26,4 @@
 [PIC32MZW1_RMII_Bridge_with_PHY_StationMode](https://github.com/MicrochipTech/PIC32MZW1_RMII_Bridge_with_PHY_StationMode) | "IoT Made Easy!" - This example application acts as a bridge to bridge up Wi-Fi and ETH interface of WFI32 device | N/A
 
 
-<sub><i>Generated on UTC 2023-04-16 01:38:12.614999</i></sub>
+<sub><i>Generated on UTC 2023-04-17 01:26:25.460723</i></sub>
