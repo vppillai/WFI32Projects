@@ -11,8 +11,8 @@
 [PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.1](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.1)
 [pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "IoT Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
 [PIC32MZW1_Ethernet_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the LAN and Wireless LAN on a single and same sub network | N/A
-[PIC32MZW1_WFI32_IFTTT_Action_Example](https://github.com/MicrochipTech/PIC32MZW1_WFI32_IFTTT_Action_Example) | "IoT Made Easy!" - IFTTT action demo collateral for WFI32-IoT board or PIC32MZW1 Curiosty board | N/A
 [PIC32MZW1_CAN_WiFi_Bridge](https://github.com/MicrochipTech/PIC32MZW1_CAN_WiFi_Bridge) | “IoT Made Easy!" - CAN/WiFi bridge project for PIC32MZW1 | N/A
+[PIC32MZW1_WFI32_IFTTT_Action_Example](https://github.com/MicrochipTech/PIC32MZW1_WFI32_IFTTT_Action_Example) | "IoT Made Easy!" - IFTTT action demo collateral for WFI32-IoT board or PIC32MZW1 Curiosty board | N/A
 [iot_solutions_for_smart_garage_door_opener](https://github.com/MicrochipTech/iot_solutions_for_smart_garage_door_opener) | "IoT Made Easy!" - Microchip IoT Solutions for Smart Garage Door Opener | N/A
 [PIC32MZW1_WebSocket_HTTP_Website](https://github.com/MicrochipTech/PIC32MZW1_WebSocket_HTTP_Website) | "IoT Made Easy!" - This example application enable a websocket server with the HTTP website, temperature and light intensity value is send to the browser through the websocket connection and display in real time. | N/A
 [PIC32MZW1_BLE_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_BLE_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the BLE link and Wi-Fi to enable Wi-Fi communication and configuration over BLE | N/A
@@ -29,4 +29,4 @@
 [PIC32MZW1_MicroPython](https://github.com/MicrochipTech/PIC32MZW1_MicroPython) | "IoT Made Easy!" - support micropython on pic32mzw1 (wfi32) | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_MicroPython/releases/tag/v1.0.0)
 
 
-<sub><i>Generated on UTC 2023-04-28 01:34:58.760565</i></sub>
+<sub><i>Generated on UTC 2023-04-29 01:26:25.704134</i></sub>
