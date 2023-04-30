@@ -17,8 +17,8 @@
 [PIC32MZW1_WebSocket_HTTP_Website](https://github.com/MicrochipTech/PIC32MZW1_WebSocket_HTTP_Website) | "IoT Made Easy!" - This example application enable a websocket server with the HTTP website, temperature and light intensity value is send to the browser through the websocket connection and display in real time. | N/A
 [PIC32MZW1_BLE_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_BLE_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the BLE link and Wi-Fi to enable Wi-Fi communication and configuration over BLE | N/A
 [PIC32MZW1_WIFI_TOUCH_OLED](https://github.com/MicrochipTech/PIC32MZW1_WIFI_TOUCH_OLED) | "IoT Made Easy!" - This example application acts as a TCP Server to which a TCP Client can connect and visualize QT7 Touch Xpro data. The touch data are also printed on an OLED Display. | N/A
-[PIC32MZW1_UART_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_UART_WIFI_Bridge) | "IoT Made Easy!" - This example application enable a Transparent UART Bridge over Wi-Fi based on TCP/IP Client/Server | N/A
 [PIC32MZW1_AnyCloud](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud) | "IoT Made Easy!" - This PIC32MZW1 example application is used for connecting to any of the three Clouds- AWS, Azure or test.mosquitto.org or a server. | [v0.3.1](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud/releases/tag/v0.3.1)
+[PIC32MZW1_UART_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_UART_WIFI_Bridge) | "IoT Made Easy!" - This example application enable a Transparent UART Bridge over Wi-Fi based on TCP/IP Client/Server | N/A
 [PIC32MZW1_Ethernet_WIFI_Bridge_For_Ethernet_End_Node](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge_For_Ethernet_End_Node) | "IoT Made Easy!" - This example application bridge the Ethernet end node over Wi-Fi using WFI32E as a STATION | N/A
 [PIC32MZW1_UARTManifest](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest) | "IoT Made Easy!" - Tool framework to extract manifest file from the TNGTLS device onboard a WFI32 module  | [v1.3.0](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest/releases/tag/v1.3.0)
 [PIC32MZW1_Secured_TCP_Client_With_ECC_Crypto_Coprocessor](https://github.com/MicrochipTech/PIC32MZW1_Secured_TCP_Client_With_ECC_Crypto_Coprocessor) | "IoT Made Easy!" - This PIC32MZW1 example application acts as a TCP Client to connect to Secured TCP Server with ECC608 TNG crytpo coprocessor and exchange data | N/A
@@ -29,4 +29,4 @@
 [PIC32MZW1_MicroPython](https://github.com/MicrochipTech/PIC32MZW1_MicroPython) | "IoT Made Easy!" - support micropython on pic32mzw1 (wfi32) | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_MicroPython/releases/tag/v1.0.0)
 
 
-<sub><i>Generated on UTC 2023-04-29 01:26:25.704134</i></sub>
+<sub><i>Generated on UTC 2023-04-30 01:36:13.589238</i></sub>
