@@ -8,8 +8,8 @@
 [PIC32MZW1_Workshop](https://github.com/MicrochipTech/PIC32MZW1_Workshop) | "IoT Made Easy!" - Guided System Development to learn PIC32MZ W1 Family Device | N/A
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v3.0](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v3.0)
 [iot_solutions_for_smart_garage_door_opener](https://github.com/MicrochipTech/iot_solutions_for_smart_garage_door_opener) | "IoT Made Easy!" - Microchip IoT Solutions for Smart Garage Door Opener | N/A
-[PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.1](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.1)
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | “IoT Made Easy!" - additional projects for PIC32MZW1 | N/A
+[PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.1](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.1)
 [pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "IoT Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
 [PIC32MZW1_Ethernet_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the LAN and Wireless LAN on a single and same sub network | N/A
 [PIC32MZW1_WFI32_IFTTT_Action_Example](https://github.com/MicrochipTech/PIC32MZW1_WFI32_IFTTT_Action_Example) | "IoT Made Easy!" - IFTTT action demo collateral for WFI32-IoT board or PIC32MZW1 Curiosty board | N/A
@@ -26,4 +26,4 @@
 [PIC32MZW1_MicroPython](https://github.com/MicrochipTech/PIC32MZW1_MicroPython) | "IoT Made Easy!" - support micropython on pic32mzw1 (wfi32) | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_MicroPython/releases/tag/v1.0.0)
 
 
-<sub><i>Generated on UTC 2023-06-08 01:52:00.333060</i></sub>
+<sub><i>Generated on UTC 2023-06-09 01:52:14.066981</i></sub>
