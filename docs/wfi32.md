@@ -29,4 +29,4 @@
 [PIC32MZW1_MicroPython](https://github.com/MicrochipTech/PIC32MZW1_MicroPython) | "IoT Made Easy!" - support micropython on pic32mzw1 (wfi32) | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_MicroPython/releases/tag/v1.0.0)
 
 
-<sub><i>Generated on UTC 2023-09-02 01:10:53.025682</i></sub>
+<sub><i>Generated on UTC 2023-09-03 01:16:50.546971</i></sub>
