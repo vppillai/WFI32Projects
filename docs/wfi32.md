@@ -9,12 +9,12 @@
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v3.1](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v3.1)
 [PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.0.1](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.0.1)
 [iot_solutions_for_smart_garage_door_opener](https://github.com/MicrochipTech/iot_solutions_for_smart_garage_door_opener) | "IoT Made Easy!" - Microchip IoT Solutions for Smart Garage Door Opener | N/A
+[PIC32MZW1_AnyCloud](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud) | "IoT Made Easy!" - This PIC32MZW1 example application is used for connecting to any of the three Clouds- AWS, Azure or test.mosquitto.org or a server. | [v0.3.1](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud/releases/tag/v0.3.1)
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | “IoT Made Easy!" - additional projects for PIC32MZW1 | N/A
 [PIC32MZW1_CAN_WiFi_Bridge](https://github.com/MicrochipTech/PIC32MZW1_CAN_WiFi_Bridge) | “IoT Made Easy!" - CAN/WiFi bridge project for PIC32MZW1 | N/A
 [pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "IoT Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
 [PIC32MZW1_Ethernet_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the LAN and Wireless LAN on a single and same sub network | N/A
 [PIC32MZW1_UART_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_UART_WIFI_Bridge) | "IoT Made Easy!" - This example application enable a Transparent UART Bridge over Wi-Fi based on TCP/IP Client/Server | N/A
-[PIC32MZW1_AnyCloud](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud) | "IoT Made Easy!" - This PIC32MZW1 example application is used for connecting to any of the three Clouds- AWS, Azure or test.mosquitto.org or a server. | [v0.3.1](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud/releases/tag/v0.3.1)
 [PIC32MZW1_WFI32_IFTTT_Action_Example](https://github.com/MicrochipTech/PIC32MZW1_WFI32_IFTTT_Action_Example) | "IoT Made Easy!" - IFTTT action demo collateral for WFI32-IoT board or PIC32MZW1 Curiosty board | N/A
 [PIC32MZW1_Ethernet_WIFI_Bridge_For_Ethernet_End_Node](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge_For_Ethernet_End_Node) | "IoT Made Easy!" - This example application bridge the Ethernet end node over Wi-Fi using WFI32E as a STATION | N/A
 [AzureDemo_WFI32E01](https://github.com/MicrochipTech/AzureDemo_WFI32E01) | "IoT Made Easy!" - Connect the WFI32E01PC module to Microsoft Azure | N/A
@@ -29,4 +29,4 @@
 [PIC32MZW1_MicroPython](https://github.com/MicrochipTech/PIC32MZW1_MicroPython) | "IoT Made Easy!" - support micropython on pic32mzw1 (wfi32) | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_MicroPython/releases/tag/v1.0.0)
 
 
-<sub><i>Generated on UTC 2023-10-16 01:16:32.173207</i></sub>
+<sub><i>Generated on UTC 2023-10-17 01:15:36.588252</i></sub>
