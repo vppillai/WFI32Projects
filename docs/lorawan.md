@@ -20,8 +20,8 @@
 [AVR-IoT_LoRa_Click](https://github.com/MicrochipTech/AVR-IoT_LoRa_Click) | The project source code of the "Adding LoRa® RN2483 Click to AVR-IoT WG Board (ATmega4808)" Application Note | N/A
 [atsamr34_lorawan_wifi_ap_scan](https://github.com/MicrochipTech/atsamr34_lorawan_wifi_ap_scan) | “IoT Made Easy!" - Adding Wi-Fi Sniffing to an existing LoRaWAN Application | N/A
 [atsamr34_ecc608a_tti](https://github.com/MicrochipTech/atsamr34_ecc608a_tti) | “IoT Made Easy!" - Develop with the SAM R34 or WLR089U and Microchip LoRaWAN(tm) stack on TTI Join Server | N/A
-[emb-lr1276s_tti](https://github.com/MicrochipTech/emb-lr1276s_tti) | “IoT Made Easy!" - Develop with the EMBIT EMB-LR1276S LoRaWAN Module and Microchip LoRaWAN stack on TTI join server | N/A
 [ATSAMR34_LORAWAN_H3](https://github.com/MicrochipTech/ATSAMR34_LORAWAN_H3) | "IoT Made Easy!" - Microchip LoRaWAN Stack Opened for SAM R34 IC and WLR089U0 Module running on MPLAB X IDE | N/A
+[emb-lr1276s_tti](https://github.com/MicrochipTech/emb-lr1276s_tti) | “IoT Made Easy!" - Develop with the EMBIT EMB-LR1276S LoRaWAN Module and Microchip LoRaWAN stack on TTI join server | N/A
 
 
-<sub><i>Generated on UTC 2024-01-31 01:14:46.844755</i></sub>
+<sub><i>Generated on UTC 2024-02-01 01:18:19.741053</i></sub>
