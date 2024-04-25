@@ -7,7 +7,7 @@
 [PIC32MZW1_Curiosity_OOB](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB) | "IoT Made Easy!" - OOB demo collateral for PIC32MZW1 Curiosty board | [v3.0.2](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/tag/v3.0.2)
 [PIC32MZW1_Workshop](https://github.com/MicrochipTech/PIC32MZW1_Workshop) | "IoT Made Easy!" - Guided System Development to learn PIC32MZ W1 Family Device | N/A
 [PIC32MZW1_Matter_Project](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project) | "IoT Made Easy!" - PIC32MZW1 Matter example project is added to the code which fork from Matter's repo | [v1.1.0](https://github.com/MicrochipTech/PIC32MZW1_Matter_Project/releases/tag/v1.1.0)
-[WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v3.2](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v3.2)
+[WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v3.3](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v3.3)
 [PIC32MZW1_UART_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_UART_WIFI_Bridge) | "IoT Made Easy!" - This example application enable a Transparent UART Bridge over Wi-Fi based on TCP/IP Client/Server | N/A
 [iot_solutions_for_smart_garage_door_opener](https://github.com/MicrochipTech/iot_solutions_for_smart_garage_door_opener) | "IoT Made Easy!" - Microchip IoT Solutions for Smart Garage Door Opener | N/A
 [pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "IoT Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
@@ -26,4 +26,4 @@
 [PIC32MZW1_RMII_Bridge_with_PHY_StationMode](https://github.com/MicrochipTech/PIC32MZW1_RMII_Bridge_with_PHY_StationMode) | "IoT Made Easy!" - This example application acts as a bridge to bridge up Wi-Fi and ETH interface of WFI32 device | N/A
 
 
-<sub><i>Generated on UTC 2024-04-22 01:18:44.490438</i></sub>
+<sub><i>Generated on UTC 2024-04-25 01:18:45.005347</i></sub>
