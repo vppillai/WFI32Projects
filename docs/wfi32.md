@@ -23,10 +23,10 @@
 [PIC32MZW1_UARTManifest](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest) | "IoT Made Easy!" - Tool framework to extract manifest file from the TNGTLS device onboard a WFI32 module  | [v1.3.0](https://github.com/MicrochipTech/PIC32MZW1_UARTManifest/releases/tag/v1.3.0)
 [PIC32MZW1_WIFI_TOUCH_OLED](https://github.com/MicrochipTech/PIC32MZW1_WIFI_TOUCH_OLED) | "IoT Made Easy!" - This example application acts as a TCP Server to which a TCP Client can connect and visualize QT7 Touch Xpro data. The touch data are also printed on an OLED Display. | N/A
 [PIC32MZW1_Secured_TCP_Client_With_ECC_Crypto_Coprocessor](https://github.com/MicrochipTech/PIC32MZW1_Secured_TCP_Client_With_ECC_Crypto_Coprocessor) | "IoT Made Easy!" - This PIC32MZW1 example application acts as a TCP Client to connect to Secured TCP Server with ECC608 TNG crytpo coprocessor and exchange data | N/A
-[PIC32MZW1_refDesign_OOB](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB) | "IoT Made Easy!" - OOB demo for the PIC32MZW1 reference design board | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB/releases/tag/v1.0.0)
 [AzureDemo_AnyCloud](https://github.com/MicrochipTech/AzureDemo_AnyCloud) | "IoT Made Easy!" - Use the UART of any processor to connect with Microsoft Azure | N/A
+[PIC32MZW1_refDesign_OOB](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB) | "IoT Made Easy!" - OOB demo for the PIC32MZW1 reference design board | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_refDesign_OOB/releases/tag/v1.0.0)
 [PIC32MZW1_RMII_Bridge_with_PHY_StationMode](https://github.com/MicrochipTech/PIC32MZW1_RMII_Bridge_with_PHY_StationMode) | "IoT Made Easy!" - This example application acts as a bridge to bridge up Wi-Fi and ETH interface of WFI32 device | N/A
 [PIC32MZW1_MicroPython](https://github.com/MicrochipTech/PIC32MZW1_MicroPython) | "IoT Made Easy!" - support micropython on pic32mzw1 (wfi32) | [v1.0.0](https://github.com/MicrochipTech/PIC32MZW1_MicroPython/releases/tag/v1.0.0)
 
 
-<sub><i>Generated on UTC 2024-06-11 01:23:35.575321</i></sub>
+<sub><i>Generated on UTC 2024-06-12 01:23:26.273538</i></sub>
