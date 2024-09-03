@@ -2,3 +2,4 @@ wfi32
 pic32mzw1
 lorawan
 linux
+wfi32iot-board
