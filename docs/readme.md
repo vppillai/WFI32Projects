@@ -6,6 +6,7 @@
 ### [pic32mzw1](pic32mzw1)
 ### [lorawan](lorawan)
 ### [linux](linux)
+### [wfi32iot-board](wfi32iot-board)
 
 
-<sub><i>Generated on UTC 2024-09-03 01:37:50.211443</i></sub>
+<sub><i>Generated on UTC 2024-09-06 01:39:16.073399</i></sub>
