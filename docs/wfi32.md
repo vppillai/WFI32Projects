@@ -10,8 +10,8 @@
 [PIC32MZW1_UART_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_UART_WIFI_Bridge) | "IoT Made Easy!" - This example application enable a Transparent UART Bridge over Wi-Fi based on TCP/IP Client/Server | N/A
 [WFI32-IoT](https://github.com/MicrochipTech/WFI32-IoT) | "IoT Made Easy!" - OOB demo collateral for WFI32-IoT board | [v3.3](https://github.com/MicrochipTech/WFI32-IoT/releases/tag/v3.3)
 [PIC32MZW1_Ethernet_WIFI_Bridge](https://github.com/MicrochipTech/PIC32MZW1_Ethernet_WIFI_Bridge) | "IoT Made Easy!" - This example application bridge the LAN and Wireless LAN on a single and same sub network | N/A
-[pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "IoT Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
 [PIC32MZW1_CAN_WiFi_Bridge](https://github.com/MicrochipTech/PIC32MZW1_CAN_WiFi_Bridge) | “IoT Made Easy!" - CAN/WiFi bridge project for PIC32MZW1 | N/A
+[pic32mzw1_ffs_amazon_freertos](https://github.com/MicrochipTech/pic32mzw1_ffs_amazon_freertos) | "IoT Made Easy!" - Amazon Frustration Free Setup for PIC32MZW1 | N/A
 [iot_solutions_for_smart_garage_door_opener](https://github.com/MicrochipTech/iot_solutions_for_smart_garage_door_opener) | "IoT Made Easy!" - Microchip IoT Solutions for Smart Garage Door Opener | N/A
 [PIC32MZW1_AnyCloud](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud) | "IoT Made Easy!" - This PIC32MZW1 example application is used for connecting to any of the three Clouds- AWS, Azure or test.mosquitto.org or a server. | [v0.3.2](https://github.com/MicrochipTech/PIC32MZW1_AnyCloud/releases/tag/v0.3.2)
 [PIC32MZW1_Projects](https://github.com/MicrochipTech/PIC32MZW1_Projects) | “IoT Made Easy!" - additional projects for PIC32MZW1 | N/A
@@ -29,4 +29,4 @@
 [PIC32MZW1_RMII_Bridge_with_PHY_StationMode](https://github.com/MicrochipTech/PIC32MZW1_RMII_Bridge_with_PHY_StationMode) | "IoT Made Easy!" - This example application acts as a bridge to bridge up Wi-Fi and ETH interface of WFI32 device | N/A
 
 
-<sub><i>Generated on UTC 2024-10-13 01:50:39.460990</i></sub>
+<sub><i>Generated on UTC 2024-10-19 01:43:15.703341</i></sub>
