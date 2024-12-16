@@ -29,4 +29,4 @@
 [PIC32MZW1_RMII_Bridge_with_PHY_StationMode](https://github.com/MicrochipTech/PIC32MZW1_RMII_Bridge_with_PHY_StationMode) | "IoT Made Easy!" - This example application acts as a bridge to bridge up Wi-Fi and ETH interface of WFI32 device | N/A
 
 
-<sub><i>Generated on UTC 2024-12-15 02:01:23.933886</i></sub>
+<sub><i>Generated on UTC 2024-12-16 01:58:02.978697</i></sub>
