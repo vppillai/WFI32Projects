@@ -9,4 +9,4 @@
 ### [wfi32iot-board](wfi32iot-board)
 
 
-<sub><i>Generated on UTC 2025-01-31 01:42:50.026677</i></sub>
+<sub><i>Generated on UTC 2025-02-01 01:47:23.809915</i></sub>
