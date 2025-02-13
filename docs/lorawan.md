@@ -24,4 +24,4 @@
 [ATSAMR34_LORAWAN_H3](https://github.com/MicrochipTech/ATSAMR34_LORAWAN_H3) | "IoT Made Easy!" - Microchip LoRaWAN Stack Opened for SAM R34 IC and WLR089U0 Module running on MPLAB X IDE | N/A
 
 
-<sub><i>Generated on UTC 2025-02-12 01:44:24.133099</i></sub>
+<sub><i>Generated on UTC 2025-02-13 01:45:08.801279</i></sub>
